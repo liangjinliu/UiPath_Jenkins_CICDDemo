@@ -4,6 +4,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "Microsoft.Exchange.WebServices": "[2.2.0]",
+    "System.Management.Automation": "[6.1.7601.17515]",
     "UiPath.Excel.Activities": "[2.11.3]",
     "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.System.Activities": "[22.10.4]",
