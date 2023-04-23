@@ -3,6 +3,7 @@
   "description": "CICD Demo Process with Jenkins",
   "main": "Main.xaml",
   "dependencies": {
+    "Microsoft.Exchange.WebServices": "[2.2.0]",
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.10.4]",
     "UiPath.System.Activities": "[21.4.1]",
